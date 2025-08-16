@@ -1,0 +1,1 @@
+export { articlesSlice } from './articlesSlice';

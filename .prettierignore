@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+build/
+.next/
+*.min.js
+*.min.css
+package-lock.json
+yarn.lock
+coverage/
+*.log
+.eslintrc.js
