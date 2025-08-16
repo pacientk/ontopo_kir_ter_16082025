@@ -75,7 +75,7 @@ src/
 1. **Clone the project**
    ```bash
    git clone git@github.com:pacientk/ontopo_kir_ter_16082025.git
-   cd Ontopo_test
+   cd ontopo_kir_ter_16082025
    ```
 
 2. **Install dependencies**
